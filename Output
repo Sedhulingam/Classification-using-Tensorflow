@@ -68,3 +68,4 @@ Epoch 10/10
 1563/1563 [==============================] - 19384s 12s/step - loss: 0.6688 - accuracy: 0.7662 - val_loss: 0.8695 - val_accuracy: 0.6974
 313/313 - 12s - loss: 0.8695 - accuracy: 0.6974 - 12s/epoch - 38ms/step
 Accuracy: 0.6973999738693237
+
